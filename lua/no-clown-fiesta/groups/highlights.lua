@@ -95,7 +95,7 @@ function M.highlight(palette, opts)
     Question = { fg = palette.yellow_pale or palette.cyan },
     EndOfBuffer = { fg = palette.gray },
     NonText = { fg = palette.fg },
-    Variable = vim.tbl_extend("force", { fg = palette.orange_amber or palette.gray_warm or palette.light_gray or palette.fg }, opts.styles.variables),
+    Variable = vim.tbl_extend("force", { fg = palette.orange_amber or palette.light_gray or palette.gray_warm or palette.fg }, opts.styles.variables),
     String = { fg = palette.orange_amber or palette.orange_copper or palette.orange_clay or palette.gray_warm or palette.purple_bright or palette.medium_gray_blue },
     Character = { fg = palette.purple_bright or palette.green },
     Constant = { fg = palette.fg },

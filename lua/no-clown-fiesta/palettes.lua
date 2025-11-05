@@ -211,6 +211,9 @@ local palettes = {
     -- Purple variations
     purple_muted = "#8b7a9d",
     purple_soft = "#a78bcc",
+    -- Carmine variations (for exceptional cases - calm shades)
+    carmine_muted = "#a67286",
+    carmine_soft = "#b8899d",
     -- Legacy mappings
     blue = "#fff68d",
     gray_blue = "#c8be46",
