@@ -25,6 +25,11 @@ local palettes = {
     yellow_lightest = "#fff68d",
     yellow_neon = "#fcee0b",
     yellow_soft = "#d4c570",
+    -- Purple variations (for contrast accents - use sparingly)
+    purple_muted = "#8b7a9d",
+    purple_soft = "#a78bcc",
+    purple_medium = "#b8a0d6",
+    purple_bright = "#c5b2e0",
     -- Legacy color mappings for backward compatibility
     blue = "#fff68d",
     gray_blue = "#c8be46",
