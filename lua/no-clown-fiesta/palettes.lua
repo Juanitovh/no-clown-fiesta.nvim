@@ -30,6 +30,11 @@ local palettes = {
     purple_soft = "#a78bcc",
     purple_medium = "#b8a0d6",
     purple_bright = "#c5b2e0",
+    -- Carmine/Fuchsia variations (for exceptional cases - ~5-10% usage)
+    carmine_deep = "#b5587a",
+    carmine_muted = "#cc6b8e",
+    carmine_soft = "#e67a9d",
+    carmine_bright = "#ff8fab",
     -- Legacy color mappings for backward compatibility
     blue = "#fff68d",
     gray_blue = "#c8be46",
